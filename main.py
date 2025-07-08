@@ -8,6 +8,15 @@ from oauth2client.service_account import ServiceAccountCredentials
 import os
 from datetime import datetime
 
+import os
+
+service_account_json = os.getenv("GOOGLE_SERVICE_ACCOUNT_JSON")
+json_path = "service_account.json"
+
+if service_account_json and not os.path.exists(json_path):
+    with open(json_path, "w") as f:
+        f.write(service_account_json)
+
 # === Parámetros configurables globales ===
 RIESGO_PORTRADE = 1     # Porcentaje de capital arriesgado por operación
 INVERSION_MINIMA = 10   # Mínimo a invertir por trade (en USD)
