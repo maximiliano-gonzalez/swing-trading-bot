@@ -1,0 +1,27 @@
+Ticker,Nombre,Sector,ETF_Sectorial,tp_sl_ratio
+AAPL,Apple,Tecnología,XLK,1.5
+MSFT,Microsoft,Tecnología,XLK,1.5
+NVDA,Nvidia,Tecnología,XLK,2
+AMD,AMD,Tecnología,XLK,2
+JPM,JPMorgan Chase,Financiero,XLF,1.2
+BAC,Bank of America,Financiero,XLF,1.2
+GS,Goldman Sachs,Financiero,XLF,1.2
+AMZN,Amazon,Consumo Discrecional,XLY,2
+TSLA,Tesla,Consumo Discrecional,XLY,2.5
+HD,Home Depot,Consumo Discrecional,XLY,1.5
+UNH,UnitedHealth Group,Salud,XLV,1.5
+JNJ,Johnson & Johnson,Salud,XLV,1.5
+PFE,Pfizer,Salud,XLV,1.5
+BA,Boeing,Industriales,XLI,1.5
+CAT,Caterpillar,Industriales,XLI,1.5
+XOM,ExxonMobil,Energía,XLE,1.2
+CVX,Chevron,Energía,XLE,1.2
+PG,Procter & Gamble,Consumo Básico,XLP,1.2
+KO,Coca-Cola,Consumo Básico,XLP,1.2
+META,Meta Platforms,Comunicación,XLC,2
+GOOGL,Alphabet,Tecnología,XLK,2
+NEM,Newmont,Materiales,XLB,1.5
+LIN,Linde,Materiales,XLB,1.5
+AMT,American Tower,Real Estate,XLRE,1.2
+PLD,Prologis,Real Estate,XLRE,1.2
+
