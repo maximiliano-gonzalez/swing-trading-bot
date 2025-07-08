@@ -3,3 +3,4 @@ pandas
 ta
 gspread
 oauth2client
+yfinance
